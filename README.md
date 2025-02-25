@@ -1,6 +1,6 @@
 <!-- Header dengan animasi teks -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Halo+semua!+Saya+@LineAja19!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Halo+semua!+Saya+@Wira!">
 </p>
 
 <!-- Profil singkat -->
