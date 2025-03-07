@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 <p align="center">
-  🌟  こんにちは。(Konnichiwa). I'm Wira, I'm Focused On Web Development & Mobile App.
+  🌟  こんにちは。(Konnichiwa). I'm Wira, I'm Focused On Web Development.
 </p>
 
 ---
